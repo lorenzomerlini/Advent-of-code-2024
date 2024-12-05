@@ -57,7 +57,6 @@ func main() {
 			correct = append(correct, update)
 		}
 	}
-	//var middleNumbers []string
 	var sum int
 	for i := 0; i < len(correct); i++ {
 
